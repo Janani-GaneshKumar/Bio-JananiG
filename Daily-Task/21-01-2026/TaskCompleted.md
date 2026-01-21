@@ -46,6 +46,3 @@
   - Sent requests using **Authorization: Bearer <token>** header.
   - Verified that expired tokens were correctly rejected with `401 Unauthorized`.
   - Confirmed that valid tokens allowed access to protected endpoints.
-
-## Additional Work
-- Worked on **token validation** today.
